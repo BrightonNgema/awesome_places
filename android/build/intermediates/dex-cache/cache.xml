@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4d91dcd1325933c2cff8f782ec1b8acbb5c7a95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_40616c55029df68b0d3b47370ffd2ed97f90b38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_468675b841573a93598e73d9755aecdfb85fbbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_dd1d3386025bfbef33afdde91c34544fe5b3ddff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b4dfa792ad7b1ba3189a68760efeb69a33c2d83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3c23bda9e5aea99b0900cecf6531bd669cb1b74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_2524d27c6c56833c2a6f119bb25ec37df12267cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_17ae28311610efed88c7ab0da4ca16acfc45ee63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_113e9fe485fe665f6259e9ad8ec3dcbb9d38c7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0f36bb63f1d89771f517ca90321b4674730eada8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bd56944a669223dea8ff46a4a48ea0f6aaa681c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_17ae28311610efed88c7ab0da4ca16acfc45ee63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4699764fac7ab0d9da97cca9a8d23e8244ff6886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7807dfc0e216f7da26858cd86f4f02a3e625514a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_355326176524300dae5bd30b6c3aa6c204d32700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bd56944a669223dea8ff46a4a48ea0f6aaa681c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b49c39ccbb120923e41f272cc198ff7cdbbea230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_f9949dcbd2bab435175aaca7fd61f9275d0ca1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ee18a6d3d69b20805196254840fb1779311f251c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_bbe0a0fd1729e0ccf22c3f8817d6d75f3685a7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7807dfc0e216f7da26858cd86f4f02a3e625514a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4699764fac7ab0d9da97cca9a8d23e8244ff6886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ee18a6d3d69b20805196254840fb1779311f251c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b49c39ccbb120923e41f272cc198ff7cdbbea230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a86f91def3f88382f5a751dd882e3545c7c78738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_dd1d3386025bfbef33afdde91c34544fe5b3ddff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_4fbe14aec9043e0f43358a5a8bfd49c9968608ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_d358fc2e0dd7e5c943a419ddfaa89db41afaf811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_243e8012baf1c24d001a6e763b155a9a8a3771d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a86f91def3f88382f5a751dd882e3545c7c78738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.5_63ad1aa750799113ea7f17f97386a44fa6fe887f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4d91dcd1325933c2cff8f782ec1b8acbb5c7a95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1448b13aa07737841fc894dce5e20ab9c62f78b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_50262449317ed0c3c725d5730106e0f4b0674645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3c23bda9e5aea99b0900cecf6531bd669cb1b74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_8b55c858fbe1b39284d16524ec38f949307c14c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/awesomeplaces/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/awesomeplaces-react-native-vector-icons-unspecified_3b6d2344a289f8020fffea5ff1255d3a38d35689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_cb070edf2467f1ad12ab010bb77200f890cc9df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_06ead67222412b496efee18521cf1249284c492d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_cc9dabed3749ff71094d3e2269877774c692a334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_06ead67222412b496efee18521cf1249284c492d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/awesomeplaces/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="52b5e74b35b8a6695796151871a53712847eaad7">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/awesomeplaces-react-native-navigation-unspecified_b5ade0f0812021c1628ff9f142403aa2a00281f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_a534837396b4df616a6fbb15d101243a3634401a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_5f30025b49eae4d289bf4f26f35c52628e108c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d3d96ce1727131c1ab25637d0b12048c862bad47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_762173729eb775ad33bdccad2a187b572b044ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d3d96ce1727131c1ab25637d0b12048c862bad47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_355326176524300dae5bd30b6c3aa6c204d32700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0f36bb63f1d89771f517ca90321b4674730eada8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_761c079dc5b9d79bb2e51e8275988d26123df05e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayalrosenberg/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b4dfa792ad7b1ba3189a68760efeb69a33c2d83f.jar" />
+    </item>
+
+</items>
