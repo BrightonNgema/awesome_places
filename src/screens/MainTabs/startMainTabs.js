@@ -42,6 +42,14 @@ const startTabs = () => {
                     }                  
                 }
             ],
+            tabsStyle: { // optional, add this if you want to style the tab bar beyond the defaults
+                tabBarButtonColor: '#aaa', // optional, change the color of the tab icons and text (also unselected). On Android, add this to appStyle
+                tabBarSelectedButtonColor: 'orange', // optional, change the color of the selected tab icon and text (only selected). On Android, add this to appStyle
+            },
+            appStyle: { // optional, add this if you want to style the tab bar beyond the defaults
+                tabBarButtonColor: '#aaa', // optional, change the color of the tab icons and text (also unselected). On Android, add this to appStyle
+                tabBarSelectedButtonColor: 'orange', // optional, change the color of the selected tab icon and text (only selected). On Android, add this to appStyle
+            },
             drawer: {
                 left: {
                     screen: "awesome-places.SideDrawerScreen",

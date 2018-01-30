@@ -12,6 +12,10 @@ import LocateMe from '../../components/LocateMe/LocateMe';
 
 import imagePlaceholder from '../../assets/bgimage.jpg';
 class SharePlaceScreen extends Component {
+    static navigatorStyle = {
+        navBarButtonColor: "orange"
+    }
+
     state = {
         placeName: ""
       };
