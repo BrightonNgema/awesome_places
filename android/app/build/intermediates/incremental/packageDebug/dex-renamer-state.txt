@@ -1,4 +1,4 @@
-#Fri Jan 26 09:25:55 SAST 2018
+#Thu Feb 01 16:21:45 SAST 2018
 base.0=/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/ayalrosenberg/Documents/awesome-places/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
